@@ -1,0 +1,12 @@
+C:\Users\NQE8503\Laxmikant\Applications\IISHost\NorthwindClient\bin\Debug\NorthwindClient.exe.config
+C:\Users\NQE8503\Laxmikant\Applications\IISHost\NorthwindClient\bin\Debug\NorthwindClient.exe
+C:\Users\NQE8503\Laxmikant\Applications\IISHost\NorthwindClient\bin\Debug\NorthwindClient.pdb
+C:\Users\NQE8503\Laxmikant\Applications\IISHost\NorthwindClient\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\NQE8503\Laxmikant\Applications\IISHost\NorthwindClient\obj\x86\Debug\NorthwindClient.exe
+C:\Users\NQE8503\Laxmikant\Applications\IISHost\NorthwindClient\obj\x86\Debug\NorthwindClient.pdb
+C:\Laxmikant\D\Applications\IISHost\NorthwindClient\bin\Debug\NorthwindClient.exe.config
+C:\Laxmikant\D\Applications\IISHost\NorthwindClient\obj\x86\Debug\NorthwindClient.exe
+C:\Laxmikant\D\Applications\IISHost\NorthwindClient\obj\x86\Debug\NorthwindClient.pdb
+C:\Laxmikant\D\Applications\IISHost\NorthwindClient\bin\Debug\NorthwindClient.exe
+C:\Laxmikant\D\Applications\IISHost\NorthwindClient\bin\Debug\NorthwindClient.pdb
+C:\Laxmikant\D\Applications\IISHost\NorthwindClient\obj\x86\Debug\NorthwindClient.csprojResolveAssemblyReference.cache

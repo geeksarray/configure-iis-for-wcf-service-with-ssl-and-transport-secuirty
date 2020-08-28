@@ -1,0 +1,23 @@
+C:\Laxmikant\D\Applications\dotnetbloggers - code\NorthwindServices\NorthwindServices\bin\Debug\NorthwindServices.dll.config
+C:\Laxmikant\D\Applications\dotnetbloggers - code\NorthwindServices\NorthwindServices\bin\Debug\NorthwindServices.dll
+C:\Laxmikant\D\Applications\dotnetbloggers - code\NorthwindServices\NorthwindServices\bin\Debug\NorthwindServices.pdb
+C:\Laxmikant\D\Applications\dotnetbloggers - code\NorthwindServices\NorthwindServices\obj\Debug\ResolveAssemblyReference.cache
+C:\Laxmikant\D\Applications\dotnetbloggers - code\NorthwindServices\NorthwindServices\obj\Debug\NorthwindServices.dll
+C:\Laxmikant\D\Applications\dotnetbloggers - code\NorthwindServices\NorthwindServices\obj\Debug\NorthwindServices.pdb
+C:\Laxmikant\D\Applications\dotnetbloggers - code\IISHost\NorthwindServices\bin\Debug\NorthwindServices.dll.config
+C:\Laxmikant\D\Applications\dotnetbloggers - code\IISHost\NorthwindServices\bin\Debug\NorthwindServices.dll
+C:\Laxmikant\D\Applications\dotnetbloggers - code\IISHost\NorthwindServices\bin\Debug\NorthwindServices.pdb
+C:\Laxmikant\D\Applications\dotnetbloggers - code\IISHost\NorthwindServices\obj\Debug\ResolveAssemblyReference.cache
+C:\Laxmikant\D\Applications\dotnetbloggers - code\IISHost\NorthwindServices\obj\Debug\NorthwindServices.dll
+C:\Laxmikant\D\Applications\dotnetbloggers - code\IISHost\NorthwindServices\obj\Debug\NorthwindServices.pdb
+C:\Users\NQE8503\Laxmikant\Applications\IISHost\NorthwindServices\bin\Debug\NorthwindServices.dll.config
+C:\Users\NQE8503\Laxmikant\Applications\IISHost\NorthwindServices\bin\Debug\NorthwindServices.dll
+C:\Users\NQE8503\Laxmikant\Applications\IISHost\NorthwindServices\bin\Debug\NorthwindServices.pdb
+C:\Users\NQE8503\Laxmikant\Applications\IISHost\NorthwindServices\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\NQE8503\Laxmikant\Applications\IISHost\NorthwindServices\obj\Debug\NorthwindServices.dll
+C:\Users\NQE8503\Laxmikant\Applications\IISHost\NorthwindServices\obj\Debug\NorthwindServices.pdb
+C:\Laxmikant\D\Applications\IISHost\NorthwindServices\bin\Debug\NorthwindServices.dll.config
+C:\Laxmikant\D\Applications\IISHost\NorthwindServices\bin\Debug\NorthwindServices.dll
+C:\Laxmikant\D\Applications\IISHost\NorthwindServices\bin\Debug\NorthwindServices.pdb
+C:\Laxmikant\D\Applications\IISHost\NorthwindServices\obj\Debug\NorthwindServices.dll
+C:\Laxmikant\D\Applications\IISHost\NorthwindServices\obj\Debug\NorthwindServices.pdb
